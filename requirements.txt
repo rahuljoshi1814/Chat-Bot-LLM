@@ -1,0 +1,10 @@
+pandas
+milvus
+pymilvus
+gradio
+gradio_client
+transformers
+torch
+accelerate
+Pinecone
+Selenium
